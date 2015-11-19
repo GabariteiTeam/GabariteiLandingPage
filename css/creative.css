@@ -480,3 +480,8 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
+
+
+#footer > div > p{
+    font-size: 12px;
+}
